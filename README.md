@@ -1,6 +1,6 @@
-# 💻 Welcome to My GitHub Profile!  
+# 💻 Welcome! 👋 Hello! I'm Mbiydzenyuy David WANTANGWA    
 
-### 👋 Hello! I'm Mbiydzenyuy David WANTANGWA  
+### 
 A passionate **Software Developer** and **Full Stack Developer** who loves crafting efficient, scalable, and user-friendly web applications. I’m driven by the art of problem-solving and constantly exploring new technologies to build innovative solutions with various teams.
 
 ---
