@@ -28,7 +28,6 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -39,9 +38,9 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 ---
 
 ## 📫 Let’s Connect!  
-- 💼 **Portfolio**: [YourPortfolioLink](#)  
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- 💬 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- 💼 **Portfolio**: [MyPortfolioLink](https://github.com/teamsmartworld/my_portfolio)  
+- 📧 **Email**: [youremail@example.com](mailto:teamsmartworld@hotmail.com)  
+- 💬 **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/mbiydzenyuy)  
 
 ---
 
