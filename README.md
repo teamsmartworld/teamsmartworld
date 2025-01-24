@@ -38,9 +38,9 @@ A passionate **Software Developer** and **Full Stack Developer** who loves craft
 ---
 
 ## 📫 Let’s Connect!  
-- 💼 **Portfolio**: [MyPortfolioLink](https://github.com/teamsmartworld/my_portfolio)  
-- 📧 **Email**: [teamsmartworld@hotmail.com](mailto:teamsmartworld@hotmail.com)  
-- 💬 **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/mbiydzenyuy)  
+- 💼 **My_Portfolio**: [MyPortfolio](https://github.com/teamsmartworld/my_portfolio)  
+- 📧 **My_Email**: [teamsmartworld@hotmail.com](mailto:teamsmartworld@hotmail.com)  
+- 💬 **My_LinkedIn**: [My LinkedIn](www.linkedin.com/in/mbiydzenyuy)  
 
 ---
 
