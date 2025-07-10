@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 **Current Focus**: Full Stack Development using **React**, **JavaScript**, **HTML**, **CSS**, and **Java**.  
+- 🔭 **Current Focus**: Full Stack Development using **React**, **JavaScript**, **HTML**, **CSS**, **Java**, **Spring Boot**, and **Bootstrap**.  
 - 🌱 **Currently Learning**: Advanced concepts in **Node.js**, **Next.js**, and **TypeScript**.  
 - 💡 **Passionate About**: Clean code, open-source contributions, and designing seamless user experiences.  
 - 🎯 **Career Goal**: To create impactful software solutions and continuously grow as a developer.
