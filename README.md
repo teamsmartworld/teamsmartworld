@@ -1,15 +1,36 @@
-# 👋 Hello! I'm Mbiydzenyuy David WANTANGWA    
+# 👋 Hi! I'm Mbiydzenyuy David WANTANGWA    
 
 ### 
-💻 A passionate **Software Developer** and **Full Stack Developer** who loves crafting efficient, scalable, and above all, user-friendly web applications. I’m driven by the art of problem-solving and constantly exploring new technologies to build innovative solutions. I enjoy working with diverse teams.
+💻 A result-oriented **Software Developer** and **Full Stack Developer** who loves crafting efficient, scalable, and above all, user-friendly web applications. I’m driven by the art of problem-solving and constantly exploring new technologies to build innovative solutions. I enjoy working with diverse teams.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 **Current Focus**: Full Stack Development using **React**, **JavaScript**, **HTML**, **CSS**, **Java**, **Spring Boot**, and **Bootstrap**.  
-- 🌱 **Currently Learning**: Advanced concepts in **Node.js**, **Next.js**, and **TypeScript**.  
-- 💡 **Passionate About**: Clean code, open-source contributions, and designing seamless user experiences.  
-- 🎯 **Career Goal**: To create impactful software solutions and continuously grow as a developer.
+As a dedicated **Full Stack Developer** with a strong foundation in both front-end and back-end technologies, I thrive on building robust, user-centric web applications that deliver real value. With hands-on experience in **React**, **JavaScript**, **Java**, **Spring Boot**, and **Bootstrap**, I bring a balanced skill set to any development team.  
+
+I am currently focused on mastering modern frameworks and scalable architectures to deepen my expertise in enterprise-level application development. My learning path includes advanced topics in **Node.js**, **Next.js**, and **TypeScript**, as I continually strive to stay ahead of the curve.  
+
+I’m not just passionate about writing clean and efficient code—I’m driven by the impact technology can have when combined with creativity and purpose. I enjoy collaborating in agile environments, solving complex problems, and contributing to solutions that enhance user experiences and business outcomes.  
+
+My long-term goal is to grow into a leading technical role where I can architect and deliver software solutions that make a meaningful difference.
+
+---
+
+### 🌱 Currently Learning  
+I’m deepening my expertise in **Node.js**, **Next.js**, and **TypeScript** to expand my capability in building fast, modern, and scalable web applications. I'm also exploring architectural patterns, testing strategies, and cloud-native technologies to sharpen my full stack proficiency and readiness for production-grade systems.
+
+---
+
+### 💡 Passionate About  
+I’m deeply passionate about writing clean, maintainable code and developing intuitive user interfaces that improve people’s digital lives. I enjoy contributing to open-source projects, learning from the developer community, and designing thoughtful solutions that strike a balance between aesthetics and functionality. Above all, I value curiosity, craftsmanship, and continuous growth.
+
+---
+
+### 🧭 Core Values  
+- **Integrity** – I believe in doing things right, even when no one’s watching.  
+- **Collaboration** – Great software is built by great teams. I value shared learning and open communication.  
+- **Growth Mindset** – Every challenge is an opportunity to improve and innovate.  
+- **Impact** – I strive to build technology that solves real problems and enhances lives.
 
 ---
 
